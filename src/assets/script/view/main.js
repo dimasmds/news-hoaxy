@@ -1,9 +1,9 @@
-import "../components/club/hoaxy-element";
+import "../components/hoaxy/hoaxy-element";
 import "../components/toolbar/toolbar-element";
 import "../components/search/search-element";
 import AppConfig from "../config/AppConfig";
 import {Config, Endpoint} from "../config/ApiConfig";
-import Hoaxy from "../components/club/Hoaxy";
+import Hoaxy from "../components/hoaxy/Hoaxy";
 
 const main = function () {
 
