@@ -9,7 +9,7 @@ const AppConfig = {
         },
         {
             name: "Goto Repository",
-            path: "#"
+            path: "https://github.com/riotfallen/news-hoaxy"
         }
     ]
 };
